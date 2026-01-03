@@ -99,7 +99,7 @@ Com base nas análises realizadas — faturamento, avaliações dos clientes, fr
 
 ### 📌 Principais pontos que sustentam a decisão:
 - Menor faturamento total
-- Pior avaliação média dos clientes
+- Segunda pior avaliação média dos clientes
 - Frete médio elevado
 - Menor participação em categorias estratégicas
 - Produtos com baixo giro
